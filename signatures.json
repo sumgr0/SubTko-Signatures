@@ -62,13 +62,6 @@
 			]
 		},
 		{
-			"platform": "Pingdom",
-			"content": [
-				"This public report page has not been activated by the user",
-				"pingdom"
-			]
-		},
-		{
 			"platform": "Readme.io",
 			"content": "<h2>Project doesnt exist... yet!</h2>"
 		},
@@ -82,14 +75,6 @@
 		{
 			"platform": "SmartJobBoard",
 			"content": "This job board website is either expired or its domain name is invalid."
-		},
-		{
-			"platform": "Strikingly",
-			"content": "<title>Page not found - Strikingly</title>"
-		},
-		{
-			"platform": "Surge.sh",
-			"content": "<h1>project not found</h1>"
 		},
 		{
 			"platform": "Tumblr",
